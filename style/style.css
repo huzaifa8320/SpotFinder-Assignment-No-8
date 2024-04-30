@@ -125,6 +125,7 @@
 
 .option1 {
     border: none;
+    background-color: white;
     outline: none;
     font-size: 18px;
     width: 100%;
@@ -577,6 +578,12 @@
 .div22{
     background-color: #F5FAFF;
     border-radius: 10px;
+}
+@media(min-width:380px) {
+    .div22{
+        display: flex;
+        justify-content: center;
+    }
 }
 .para27{
     color: #E23744;
