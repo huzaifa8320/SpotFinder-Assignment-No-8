@@ -554,7 +554,7 @@
     color: #6B7280;
     font-size: 18px;
 }
-.input1{
+.input3{
     outline: none;
     border: 2px solid #E5E7EB;
     height: 55px;
@@ -562,7 +562,7 @@
     border-bottom-left-radius: 5px;
     color: #9CA3AF;
 }
-.input1::-webkit-input-placeholder {
+.input3::-webkit-input-placeholder {
     color: #9CA3AF;
 }
 .btn6{
